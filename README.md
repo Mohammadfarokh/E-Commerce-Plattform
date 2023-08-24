@@ -1,5 +1,3 @@
-# E-Commerce-Plattform
-
 verwaltung:
 	- http://localhost:8080/api/verwaltung/verwaltung-add
 		JSON: {
@@ -32,7 +30,6 @@ kunde:
       		 "id": 1
   		  }
  	         }
-
 	- http://localhost:8080/api/kunde/konto-add
 		JSON:  {
         "bankName": "volksbank",
@@ -73,8 +70,7 @@ kunde:
             "kontos": []
         },
         "transactions": []
-    }
-	
+    }	
 	- http://localhost:8080/api/kunde/ueberweisen
 		JSON: {       
         "senderIBAN": "DE12345678912345678912",
@@ -102,8 +98,7 @@ kunde:
             },
             "transactions": []
         }
-    }
-	
+    }	
 	- http://localhost:8080/api/kunde/konto-uebersicht
 		JSON: {
 	          "id": 1,
