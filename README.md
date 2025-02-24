@@ -6,5 +6,3 @@ This repository contains the **backend service** for a modern **e-commerce platf
 - 🛠️ **Modular & Extensible Architecture**  
 
 This backend serves as the foundation for a complete e-commerce solution, ensuring seamless integration with frontend applications and third-party services. 🚀  
-
-Let me know if you want any modifications! 😊
